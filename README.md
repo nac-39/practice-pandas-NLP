@@ -7,7 +7,7 @@ pandasの基本操作を触ってみることが目的です．ただ触って�
 ## google colabでの開き方
 1. https://colab.research.google.com/ にアクセスする．
 2. ファイル＞ノートブックを開く
-3. タブからgithubを選び，ユーザー名`nac-39`, レポジトリ`nac-39/practice-pandas-NLP`, ブランチ`main`を選択
+3. 検索窓に`https://github.com/nac-39/practice-pandas-NLP`を入力
 4. 開きたいノートブックを選択
 5. 必ず**ドライブに保存**してから，編集すること！
 
