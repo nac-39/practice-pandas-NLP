@@ -1,5 +1,10 @@
 # pandasとMecabを使って遊ぼう
 
+ゼミでの発表資料として作りました．
+
+pandasの基本操作を触ってみることが目的です．ただ触ってるだけでも面白くないと思うので，最終的にネガポジ辞書を使ってなんちゃって自然言語処理をしようというのが最終目的です．
+
+以下の参考記事は自分のメモです．
 # 参考記事
 https://qiita.com/y_itoh/items/4693bd8f64ac811f8524
 https://www.teamxeppet.com/python-mecab-unidic-lite_mac/
