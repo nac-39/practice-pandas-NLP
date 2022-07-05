@@ -15,6 +15,14 @@ pandasの基本操作を触ってみることが目的です．ただ触って�
 
 # リソース
 ## ipynbのgoogle colabでの開き方
+
+||name|link|
+|:--|:--|:--|
+|1|pandas-practice.ipynb|[![Open with Colab](https://colab.research.google.com/github/nac-39/practice-pandas-NLP/blob/master/pandas-practice.ipynb)]|
+|2|analysis-lylic.ipynb|[![Open with Colab](https://colab.research.google.com/github/nac-39/practice-pandas-NLP/blob/master/analysis-lylic.ipynb)]|
+|3|analysis-lylic-ans.ipynb|[![Open with Colab](https://colab.research.google.com/github/nac-39/practice-pandas-NLP/blob/master/analysis-lylic-ans.ipynb)]|
+
+#### 手動で開く
 1. https://colab.research.google.com/ にアクセスする．
 2. ファイル＞ノートブックを開く
 3. 検索窓に`https://github.com/nac-39/practice-pandas-NLP`を入力
