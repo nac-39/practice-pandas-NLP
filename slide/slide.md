@@ -62,7 +62,7 @@ style: |
 ---
 # pandasのデータ型
 1. 一次元(配列)： **Series**
-2. 二次元(表)： **DataFrame**　←　pandasといえばこれ！（要出典）
+2. 二次元(表)： **DataFrame**　←　pandasといえばこれ！
 3. 三次元： Panel
 
 ---
